@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ## run
 After installation of all nessesary librearies..
 Run #steamlit run main.py in terminal.
-You will get User Interface like ```
-![User Interface](age_gen_ui.PNG)
+You will get User Interface like ![User Interface](age_gen_ui.PNG)
+```bash
 Upload an Image and press predict button to see the result..
 
