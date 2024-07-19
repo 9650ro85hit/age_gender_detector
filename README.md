@@ -7,11 +7,7 @@ Age Gender Detector
 1. [Overview](#overview)
 2. [Installation](#installation)
 3. [Run](#run)
-4. [Model Training](#model-training)
-5. [Model Evaluation](#model-evaluation)
-6. [Results](#results)
-7. [Contributing](#contributing)
-8. [License](#license)
+
 
 ## Overview
 The Age and Gender Detector is a deep learning project designed to accurately predict the age and gender of individuals from images. Leveraging a convolutional neural network (CNN), this model analyzes facial features to provide reliable estimations.
@@ -38,6 +34,6 @@ pip install -r requirements.txt
 ## run
 After installation of all nessesary librearies..
 Run #steamlit run main.py in terminal.
-You will get User Interface like : [User Interface](age_gen_ui.PNG)
+You will get User Interface like : ![User Interface](age_gen_ui.PNG)
 Upload an Image and press predict button to see the result..
 
