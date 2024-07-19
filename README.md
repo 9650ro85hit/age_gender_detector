@@ -6,7 +6,7 @@ Age Gender Detector
 
 1. [Overview](#overview)
 2. [Installation](#installation)
-3. [Usage](#usage)
+3. [Run](#run)
 4. [Model Training](#model-training)
 5. [Model Evaluation](#model-evaluation)
 6. [Results](#results)
@@ -33,3 +33,11 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 # Install required packages
 pip install -r requirements.txt
+
+
+## run
+After installation of all nessesary librearies..
+Run #steamlit run main.py in terminal.
+You will get User Interface like : [User Interface](age_gen_ui.PNG)
+Upload an Image and press predict button to see the result..
+
