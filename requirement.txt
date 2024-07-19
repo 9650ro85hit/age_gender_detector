@@ -1,0 +1,10 @@
+streamlit==1.25.0        # Streamlit for the web app interface
+tensorflow==2.16.0       # Latest compatible TensorFlow version
+# torch==2.0.0           # Uncomment this line if you are using PyTorch instead
+# torchvision==0.15.0    # Uncomment if using PyTorch and need image processing
+numpy==1.24.3            # NumPy for numerical operations
+pandas==1.4.4            # Pandas for data manipulation
+opencv-python==4.6.0.66  # OpenCV for image processing
+Pillow==9.2.0            # Pillow for image handling
+matplotlib==3.5.3        # Matplotlib for plotting
+scikit-learn==1.2.0      # Scikit-learn for machine learning utilities
